@@ -1,0 +1,5 @@
+Selle praktikumi lahendamiseks kasutan järgnevat juhendit: 
+https://www.metshein.com/git-versioonihaldus/ 
+Eesnimi: Henry
+Perenimi: Järv
+Kursus: Vs21
